@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfiver_landing_pages"]=self["webpackChunkfiver_landing_pages"]||[]).push([[443],{833:function(n,a,e){e.r(a),e.d(a,{default:function(){return o}});var r=e(3396);const s={class:"about"},u=(0,r._)("h1",null,"This is an about page",-1),i=[u];function t(n,a){return(0,r.wg)(),(0,r.iD)("div",s,i)}var c=e(89);const f={},l=(0,c.Z)(f,[["render",t]]);var o=l}}]);
+//# sourceMappingURL=about.c2ff5c2e.js.map
